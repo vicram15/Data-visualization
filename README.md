@@ -37,9 +37,7 @@ The project studies academic, demographic, social, family, study and behavioral 
 🤖 Random Forest
    ↓
 📈 Evaluation
-````markdown
-# 🎓 Student Performance Analysis
-
+ 🎓 Student Performance Analysis
 
 About
 
